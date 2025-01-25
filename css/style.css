@@ -1,4 +1,4 @@
-
+/** Base styles **/
 
 body {
   font-size: 16px;
@@ -49,7 +49,6 @@ body {
 
 h3 {
   font-size: 1.4em;
-  text-align: center;
   padding: 15 auto;
 }
 .menu-category {
